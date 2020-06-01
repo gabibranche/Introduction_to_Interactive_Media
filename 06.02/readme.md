@@ -35,7 +35,7 @@ I also experiemented with using angled rectangles as this was my original vision
 
 - Version 2: generating angled rectacngles
 
-* Videos of the code running can be found ![here]()
+**Videos of the code running can be found ![here]()
 
 ## Challenges
 
