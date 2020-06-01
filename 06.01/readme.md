@@ -10,37 +10,37 @@ To complete this task I followed a series of steps:
 
 - Step 1:
 
-![]step1.JPG
+![](step1.JPG)
 
   - I chose a photograph of myself to use as a reference for my self portrait
 
 - Step 2:
 
-![]step2.jpg
+![](step2.jpg)
 
   - I sketched the portrait so I could have a clearer idea of how I would approach the drawing
 
 -Step 3:
 
-![]step3.jpg
+![](step3.jpg)
 
   - I broke down the drawing into basing geometric shapes that I knew I could apply to Processing
 
 Step 4:
 
-![]step4_a.jpg
-![]step4_b.jpg
+![](step4_a.jpg)
+![](step4_b.jpg)
 
   - I made a referencer grid both on my drawing and on my processing Canvas to make mapping the shapes easier
 
 Step 5: 
-![]step5.jpg
+![](step5.jpg)
 
   - I completed the portrait and added finishing touches
 
 Step 6: The Final Product
 
-![]step6.png
+![](step6.png)
 
   - I added a greenbackground to somewhat reflect the background of the original picture and cut off runover of the portraid by covering up with the same color as the background
 
