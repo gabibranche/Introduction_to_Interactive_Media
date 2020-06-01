@@ -35,7 +35,7 @@ I also experiemented with using angled rectangles as this was my original vision
 
 - Version 2: generating angled rectacngles
 
-**Videos of the code running can be found [![here](https://www.youtube.com/playlist?list=PLby9sGn7NkDsMAqRDQlPR8eJAiMGtrFSW)
+**Videos of the code running can be found [here](https://www.youtube.com/playlist?list=PLby9sGn7NkDsMAqRDQlPR8eJAiMGtrFSW)
 
 ## Challenges
 
@@ -43,7 +43,7 @@ This exercise was suprisingly challenging and took some time to debug. Overall, 
 
 However, since the conditional states we are requirement I was able to integrate them and they proves quite useful. However, in doing so I lost the smoothness of my generated art. I later (after way more attempts than I'd like to admit) came to learn that this was because the Draw function compiles all subfunctions/instructions before executing them. As such by using the for loops I prevented myself from getting smooth lines as shown below:
 
-![Video showing lines being drawn smoothly](https://youtu.be/S19czpiJNQc)
+[Video showing lines being drawn smoothly](https://youtu.be/S19czpiJNQc)
 
 This version does not use For Loop and relies only on draw which loops infinitely allowing for a way smoother continuation of the line
 
