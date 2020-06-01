@@ -1,6 +1,6 @@
 # Homework Assignment - June 1
 
-##Synopsis:
+## Synopsis:
 
 Our assignment was to create a self-portrait of ourself using geometry in Processing. 
 
@@ -12,37 +12,37 @@ To complete this task I followed a series of steps:
 
 ![]step1.jpg
 
-I chose a photograph of myself to use as a reference for my self portrait
+  - I chose a photograph of myself to use as a reference for my self portrait
 
 - Step 2:
 
 ![]step2.jpg
 
-I sketched the portrait so I could have a clearer idea of how I would approach the drawing
+  - I sketched the portrait so I could have a clearer idea of how I would approach the drawing
 
 -Step 3:
 
 ![]step3.jpg
 
-I broke down the drawing into basing geometric shapes that I knew I could apply to Processing
+  - I broke down the drawing into basing geometric shapes that I knew I could apply to Processing
 
 Step 4:
 
 ![]step4_a.jpg
 ![]step4_b.jpg
 
-I made a referencer grid both on my drawing and on my processing Canvas to make mapping the shapes easier
+  - I made a referencer grid both on my drawing and on my processing Canvas to make mapping the shapes easier
 
 Step 5: 
 ![]step5.jpg
 
-I completed the portrait and added finishing touches
+  - I completed the portrait and added finishing touches
 
 Step 6: The Final Product
 
 ![]step5.jpd
 
-I added a greenbackground to somewhat reflect the background of the original picture and cut off runover of the portraid by covering up with the same color as the background
+  - I added a greenbackground to somewhat reflect the background of the original picture and cut off runover of the portraid by covering up with the same color as the background
 
 
 ## Challenges
