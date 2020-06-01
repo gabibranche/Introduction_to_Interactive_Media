@@ -45,7 +45,7 @@ However, since the conditional states we are requirement I was able to integrate
 
 ![Video showing lines being drawn smoothly]()
 
-- This version does not use For Loop and relies only on draw which loops infinitely
+This version does not use For Loop and relies only on draw which loops infinitely allowing for a way smoother continuation of the line
 
 Compared to my final product which can be found in the previous videos... these lines are drawn smoothly. However, in the large sceme of things it was a minor issue because at any given frame, both versions look smooth which was my ultimate goal.
 
