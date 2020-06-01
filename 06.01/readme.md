@@ -10,7 +10,7 @@ To complete this task I followed a series of steps:
 
 - Step 1:
 
-![]step1.jpg
+![]step1.JPG
 
   - I chose a photograph of myself to use as a reference for my self portrait
 
@@ -40,7 +40,7 @@ Step 5:
 
 Step 6: The Final Product
 
-![]step5.jpd
+![]step6.png
 
   - I added a greenbackground to somewhat reflect the background of the original picture and cut off runover of the portraid by covering up with the same color as the background
 
