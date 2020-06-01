@@ -49,7 +49,10 @@ This version does not use For Loop and relies only on draw which loops infinitel
 
 Compared to my final product which can be found in the previous videos... these lines are drawn smoothly. However, in the large sceme of things it was a minor issue because at any given frame, both versions look smooth which was my ultimate goal.
 
-![](smooth.png)
+![](curve1.png)
+
+vs
+
 ![](rotate1.png)
 
 ## Reflection:
