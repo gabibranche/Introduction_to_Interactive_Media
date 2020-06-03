@@ -44,8 +44,6 @@ I had two major problems when executing my code.:
  
  Daniel Shifman's tutorials were really helpful and provided nifty ways to get around this problem. But when push came to shove, I could find a way to overcome this issue. Especially once I added more conditionals that just 'mousePressed()'. 
   This was one of the main reasons I changed from my first ideas. However once I shifted gears on my overall idea and had a clearer grasp on the classes I was able to get around this problem. Initially I tried to do this by making the bad cherries go black to blend into the screen.
- 
-![](BlackBadCherries.png)  
 
 A video can be found [here](https://youtu.be/-2giJQRyiP4) to better illustrate this problem.
   
