@@ -26,7 +26,7 @@ I got a user tester (Hatim) for my game and he provided me with some concrete fe
 
 ![](BlackCherries.png)
 
-A video of the initial user testing could be found [here]();
+A video of the initial user testing could be found [here](https://youtu.be/bb-K_C7IJwo);
 
 Finally, after smoothing out the details of the product I decided to make it more user friendly by adding instructions, creating a backgroud and printing the player's score so they could see.
 
@@ -46,6 +46,8 @@ I had two major problems when executing my code.:
   This was one of the main reasons I changed from my first ideas. However once I shifted gears on my overall idea and had a clearer grasp on the classes I was able to get around this problem. Initially I tried to do this by making the bad cherries go black to blend into the screen.
  
 ![](BlackBadCherries.png)  
+
+A video can be found [here](https://youtu.be/-2giJQRyiP4) to better illustrate this problem.
   
 However, as shown in the photo this wasn't very effective as this covered other good cherries. Instead I moved them off the canvas so that they 'appeared' to have been thrown away. This helped me avoid having to actually avoid the object. Nevertheless, I would like to learn how to modify a class in this manner and assume we will get to it later on in this class.
 
