@@ -8,7 +8,7 @@ This assignment was to create a game or an artpiece that included a class
 
 I decided to create a game called **Bad Cherries**. As evident by the name, the game shows a tree with falling cherries. However, the play needs to click as many of the 'bad cherries' as they could identify before time runs out. The more bad cherries you are able to throw away as the cherries fall to the hypotheical basket, the more points you earn.
 
-The final video can be found (here)(https://youtu.be/D8ZnmaZfdIo)
+The final video can be found [here](https://youtu.be/D8ZnmaZfdIo)
 
 This project was not my initial idea but due to some challeneges which I will mention later on, I adapted accordingly.
 
@@ -38,7 +38,8 @@ Finally, after smoothing out the details of the product I decided to make it mor
 
 I had two major problems when executing my code.:
 
-- How to add delet objects from a class.
+- How to add delete objects from a class.
+ 
  Daniel Shifman's tutorials were really helpful and provided nifty ways to get around this problem. But when push came to shove, I could find a way to overcome this issue. Especially once I added more conditionals that just 'mousePressed()'. 
   This was one of the main reasons I changed from my first ideas. However once I shifted gears on my overall idea and had a clearer grasp on the classes I was able to get around this problem. Initially I tried to do this by making the bad cherries go black to blend into the screen.
  
