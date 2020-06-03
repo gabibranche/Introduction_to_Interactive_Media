@@ -24,14 +24,16 @@ However I modified yet again and landed on my final product 'BAD CHERRIES!'. Thi
 
 I got a user tester (Hatim) for my game and he provided me with some concrete feedback. Initially I only had the game internally keep score of the bad cherries pressed but Hatim suggessted that I find a way to notify the player that they've detected bad cherries which led to the 'throwing away of the detected bad cherries'.
 
+![](BlackCherries.png)
+
 A video of the initial user testing could be found [here]();
 
 Finally, after smoothing out the details of the product I decided to make it more user friendly by adding instructions, creating a backgroud and printing the player's score so they could see.
 
-![](BadCherries1.png)
-![](BadCherries2.png)
-![](BadCherries3.png)
-![](BadCherries4.png)
+![](badCherries1.png)
+![](badCherries2.png)
+![](badCherries3.png)
+![](badCherries4.png)
 
 
 ## Challenges
@@ -43,7 +45,7 @@ I had two major problems when executing my code.:
  Daniel Shifman's tutorials were really helpful and provided nifty ways to get around this problem. But when push came to shove, I could find a way to overcome this issue. Especially once I added more conditionals that just 'mousePressed()'. 
   This was one of the main reasons I changed from my first ideas. However once I shifted gears on my overall idea and had a clearer grasp on the classes I was able to get around this problem. Initially I tried to do this by making the bad cherries go black to blend into the screen.
  
-  ![](Black.png)
+![](BlackBadCherries.png)  
   
 However, as shown in the photo this wasn't very effective as this covered other good cherries. Instead I moved them off the canvas so that they 'appeared' to have been thrown away. This helped me avoid having to actually avoid the object. Nevertheless, I would like to learn how to modify a class in this manner and assume we will get to it later on in this class.
 
