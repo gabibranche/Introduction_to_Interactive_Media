@@ -2,7 +2,11 @@
 
 Project Name: Gabi's Cellphone Usage
 Author: Gabrielle Branche
+
+Date Due: 07 May 2020
 Last Updated: 06 May 2020
+
+User Instructions: Press mouse to manipulate wind speed
 
 */
 
