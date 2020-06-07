@@ -2,7 +2,6 @@
 
 Project Name: Gabi's Cellphone Usage
 Author: Gabrielle Branche
-Data Source: The data was recorded using the Screen Time Application of Gabi's iPhone
 Last Updated: 06 May 2020
 
 */
