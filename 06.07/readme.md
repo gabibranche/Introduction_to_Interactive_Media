@@ -26,7 +26,7 @@ As shown in the photo, the data didn't show any significant trends. Therefore I 
 
 At this point, as usual I made a sketch of what I wanted to do and did some rough calculations.
 
-![](sketch.png)
+![](sketch.jpg)
 
 After this I inputted the data into Processing using JSON commands. I tried using csv commands but then shifted to JSON as my data comprised mutiple data for the same day much like the case in object orienting programming. In this way JSON was a better solution. 
 
