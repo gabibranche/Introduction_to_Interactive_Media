@@ -1,4 +1,4 @@
-# Homework Assignment - June 1
+# June 1: Assignment 1
 
 ## Synopsis:
 
