@@ -16,7 +16,7 @@ I went through several steps to make this piece a reality.
 
 First I chose my data set. I looked around but finally settled on the data gathered in Screen Time on my phone. I was interested to see how this data could be used to create something interesting
 
-![](screenUsage.jpg)
+![](screenUsage.PNG)
 
 Once I settled on the data set I inputed it into excel and made a rough plot to see if there were any trends from my data. I believe that data visualization should be used to tell a story with the data so I wanted to know if my data said anything.
 
