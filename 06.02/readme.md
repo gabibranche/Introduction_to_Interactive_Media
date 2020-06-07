@@ -1,4 +1,4 @@
-# June 1: Assignment 2
+# June 2: Assignment 2
 
 ## Synopsis:
 
