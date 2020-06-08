@@ -8,7 +8,7 @@ The purpose of this task was to create something using images
 
 I used a collection of fan art done by [Viktoria Ritzel](https://riordan.fandom.com/wiki/Viktoria_Ridzel) to make a simple card game using characters from my favorite childhood series - Percy Jackson and the Olympians.
 
-The final product can be found [here](); 
+The final product can be found [here](https://youtu.be/kEi3JJofaKg); 
 
 The player could move using arrows and can select a card by pressing 'shift'. Once the correct card is selected, it is displayed. The game can be refreshed at any point with the cards being reshuffled on mousePressed.
 
@@ -26,4 +26,4 @@ Finally I was having problems with the key pressed function for ENTER. It was no
 
 ## Reflection
 
-I will admit that this is not my best work. Due to the fact that I was feeling under the weather today I found it difficult concentrating and debugging was extra long and tedious. Given the time I would want to elaborate on this project making it more clean, user friendly and engaging
+I will admit that this is not my best work. Due to the fact that I was feeling under the weather today I found it difficult concentrating and debugging was extra long and tedious. I contemplated doing something simpler but I decided that even if I don't get this perfectly I could still use it as a learning opportunity. Given the time I would want to elaborate on this project making it more clean, user friendly and engaging as I think it has a lot of potential.
