@@ -1,3 +1,15 @@
+/*
+Project Name: The Ultimate Percy Jackson Matching Game
+ Author: Gabrielle Branche
+ Last Updated: 10 June 2020
+ 
+ Due date: 10 June, 2020
+ - Images taken from https://riordan.fandom.com
+ Art by: Viktoria Ridzel (Viria)
+ 
+ 
+ */
+
 import processing.sound.*;                                            // imports the processing.sound library
 
 SoundFile yay;                                                        // initialize soundfiles
