@@ -16,7 +16,7 @@ I decided to improve my game done for assignment 5 - The ultimate Percy Jackson 
 
 As with all my projects I started out with a sketch. I have found sketches to be quite useful in breaking down a task and getting a wrap on my ideas. 
 
-![](skecth.jpeg)
+![](sketch.jpeg)
 
 This skecth was more like a wireframe as it also served as my flow chart for how the game should transition. 
 
