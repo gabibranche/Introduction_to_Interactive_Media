@@ -1,3 +1,19 @@
+/*
+Project Name: The Percy Jackson Match Game
+ Author: Gabrielle Branche
+ Last Updated: 12 June 2020
+ 
+ Due date: 10 June, 2020
+ - Images taken from https://riordan.fandom.com
+ Art by: Viktoria Ridzel (Viria)
+ 
+ Instructions: 
+ Match the card displayed with it's corresponding card in the deck after it is displayed and shuffled. 
+ Click on a card to submit your choice
+ Press delete to restart game
+ 
+ */
+
 void setup() {
   size(900, 900);
   background(0);
