@@ -1,5 +1,6 @@
-# Midterm Project - The Ultimate Percy Jackson Matching Game!
-June 10th 2020
+# Midterm Project: 
+  # The Ultimate Percy Jackson Matching Game!
+ - June 10th 2020
 
 ## Synopsis
 
