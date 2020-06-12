@@ -10,13 +10,13 @@ The task for the midterm was to create a game that uses everything we have learn
 
 I decided to improve my game done for assignment 5 - The ultimate Percy Jackson Matching Game.
 
-The final game can be found [here](https://youtu.be/dx2TxDyScK8)
+**The final game can be found [here](https://youtu.be/dx2TxDyScK8)**
 
   This project took a lot of time and had quite a few parts. As such I decided to break it down into smaller tasks and work on them in a joint order of difficulty and priority. 
 
 As with all my projects I started out with a sketch. I have found sketches to be quite useful in breaking down a task and getting a wrap on my ideas. 
 
-![](skecth.jpg)
+![](skecth.jpeg)
 
 This skecth was more like a wireframe as it also served as my flow chart for how the game should transition. 
 
