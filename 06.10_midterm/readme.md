@@ -70,7 +70,7 @@ This goes back to my first challenge of having to use conditions to prevent cert
  
  The music crashed because every time draw happened it would restrat which just produced a horibble statc like sound. In the end I was able to resovle this by making it play only within a function that was conditional
   
-  **In essense most of my challeneges were resloved by enough conditional statements... not the most robust method but definitely efficient in my case.
+  *In essense most of my challeneges were resloved by enough conditional statements... not the most robust method but definitely efficient in my case.*
 
 ## Reflection 
 
