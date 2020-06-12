@@ -63,12 +63,14 @@ Some of the coding challenges included:
   This was a problem as I didn't know how to sort the cards without using random. However, I was saved by processing reference page that explained arrayList and its functions, one of which being ... shuffle!. Using an array list I was able to shuffle the integers and place them in a new array without any duplicates
   
 - displaying certain pages/messages conditionally within draw
+
 This goes back to my first challenge of having to use conditions to prevent certain parts of the code from running. I hope I can address this in the future
 
 - playing music without it crashing
-  The music crashed because every time draw happened it would restrat which just produced a horibble statc like sound. In the end I was able to resovle this by making it play only within a function that was conditional
+ 
+ The music crashed because every time draw happened it would restrat which just produced a horibble statc like sound. In the end I was able to resovle this by making it play only within a function that was conditional
   
-  Inessense most of my challeneges were resloved by enough conditional statements... not the most robust method but definitely efficient in my case.
+  **In essense most of my challeneges were resloved by enough conditional statements... not the most robust method but definitely efficient in my case.**
 
 ## Reflection 
 
