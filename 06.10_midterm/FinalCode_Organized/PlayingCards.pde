@@ -118,7 +118,7 @@ class PlayingCards {
     if ( (xPos<=x) || (xPos>width-x)) {
       xSpeed = -xSpeed;
     }
-    if ( (yPos<y) || (yPos>(600)-y)) {
+    if ( (yPos<y*2) || (yPos>(levelVal*(height/25))-y)) {
       ySpeed = -ySpeed;
     }
   }
