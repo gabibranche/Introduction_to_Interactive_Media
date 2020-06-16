@@ -6,7 +6,9 @@ This assignment was to use LEDs, and sensors both digitally and in analog fashio
 
 ## What I did:
 
-I chose to simulate a traffic light such that I put a red yellow and green LED to light up one after the other. 
+I chose to simulate a traffic light such that I put a red yellow and green LED to light up one after the other.
+
+![](sketch.jpg)
 
 As with traffic lights the each light shines for a different variation. As such I made all three lights flash for a different lengths. However while I kept the amount of time between each light proportional, relying on the assumption that traffic lights in different places last for different times, I used the potentiometer to determine the delay of all three lights. 
 
