@@ -35,9 +35,11 @@ The final project can be found [here]().
 In the grand scheme of things this was not a difficult task. The two main challenges I faced was :
 
 - Integrating digitalWrite
+ 
   This was difficult because for my vision, all three of my LEDs required analogWrite. In essence I didn't really need digitalWrite. However, the fact that it was required prompted me to think outside the box. I took Michael's suggestion of using the resistive sensors to manipulate the digital outputs and in the end decided to use the photoresister to run the program and if the condition was not met, use digitalWrite to turn off the LEDs.
   
  - Integrating the switch for brightness.
+  
   This was initially a challenge as I had the iff statement for the switch separate from the transitioning frokm one LED to another. Since the code was read chronologically, the brightness wasn't changing until after all the delays. I fixed this by integrating the condition into the body of the traffic Light functitons. It still isn't as smooth as it could be due to the delays but it does give a better effect than my inital try.
   
   ## Reflections
