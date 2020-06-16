@@ -16,7 +16,7 @@ After this, I used a switch to manipulate the brightness of the LEDs such that w
 
 Finally, using the photoresister, I programmed the traffic light to only run in a certain range of light. If the photoresister is exposed to too much light, the LEDs turn off. This feature was added to provide a sense of energy preservation in an environment where the light from the LEDs would barely be visibile anyway and to satisfy the requirement of having digital output.
 
-The final project can be found [here]().
+The final project can be found [here](https://www.youtube.com/watch?v=e4Q0h0t03HQ).
 
 ### The Schematic:
 
