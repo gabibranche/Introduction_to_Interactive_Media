@@ -10,7 +10,7 @@ I used this opportunity to start using odds and ends around the house. Given my 
 
 This led to the Cuptranome! The cuptranome is an instrument that is a cross between a metranome and a percussion kit. It comprises 3 cups, buttons, a servo motor, two switch buttons and a speaker. 
 
-The final product could be found [here]().
+The final product could be found [here](https://youtu.be/Oa4Elwhq4MY).
 
 This first thing I did after gathering potential objects was to make a sketch.
 
@@ -20,9 +20,9 @@ At first I wanted to make something similar to a wind chime but concluded that t
 
 ![](cups.jpg)
 
-A video of this first trial can be found [here]();
+A video of this first trial can be found [here](https://youtu.be/a-j5KFCrARo);
 
-Once this was complete, I wanted to use the potentiometer to manipulate the speed of the servo to mimic a metranome. This was also the point when I came up with the name cuptranome. A video of this step can be found [here]()
+Once this was complete, I wanted to use the potentiometer to manipulate the speed of the servo to mimic a metranome. This was also the point when I came up with the name cuptranome. A video of this step can be found [here](https://youtu.be/TUP1pHh6g1w)
 
 Once this was complete I added buttons with different pitches to serve as a sort of cymbals (or at least contrasting chromatic notes). The notes were output through the speakers. With this my circuit was complete.
 
@@ -42,7 +42,7 @@ I have heard Michael say time and time again that 'just' mentality is a trap. To
 
 This proved to be my biggest challenge and I have actually not solved it. Rather, after trying for hours, I decided to work around it. The challenge was this:
 
-The code worked fine together. However, when I added code to make the servo angle be manipulated by the potentiometer values, the servo would start doing freaky things. A video of this can be found [here]().
+The code worked fine together. However, when I added code to make the servo angle be manipulated by the potentiometer values, the servo would start doing freaky things. A video of this can be found [here](https://youtu.be/2TnWgBZz24o).
 
 <pre>
 void Update()
