@@ -26,11 +26,11 @@ Once this was complete, I wanted to use the potentiometer to manipulate the spee
 
 Once this was complete I added buttons with different pitches to serve as a sort of cymbals (or at least contrasting chromatic notes). The notes were output through the speakers. With this my circuit was complete.
 
-![](circuit,jpg)
+![](circuit.jpg)
 
 Here is the schematic:
 
-![](schematic.jpg);
+![](schematic.jpg)
 
 I fortified the servo motor by nesting it into a cup and taping it to the table. This allowed for both hands to be free to add the cymbals and change the tempo simultaneously.
 
