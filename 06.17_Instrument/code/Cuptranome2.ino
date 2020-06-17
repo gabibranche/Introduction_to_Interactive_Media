@@ -32,7 +32,7 @@ int tempo = 1;        // initializes the value by which the servo angle is incra
 
 // notes to play, corresponding to switch buttons:
 int notes[] = {
-  NOTE_A4, NOTE_C4,
+  NOTE_A4, NOTE_C4
 };
 
 
@@ -61,8 +61,8 @@ class playTone
 
 
 // initializes objects in the playTone class
-playTone playTone1(1);
-playTone playTone2(2);
+playTone playTone1(0);
+playTone playTone2(1);
 
 
 void setup() {
