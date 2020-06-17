@@ -20,7 +20,7 @@ The final project can be found [here](https://www.youtube.com/watch?v=e4Q0h0t03H
 
 ### The Schematic:
 
-![](schematic.jpg)
+![](schematic2.jpg)
 
 ### Pictures of the circuit:
 
