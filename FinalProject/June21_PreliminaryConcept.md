@@ -16,4 +16,4 @@ For my final project I would like to make a finger obstacle course. This course 
 The Game would be reflected on the screen with the score and the different elements displaying based on which part of the course is being played
 
 
-**NB:** *After mulling it over again over night, I realised that an alternative idea I'm interested in is a domino like project. (I looked up the correct name for the machine but couldn't find it. I think this is conducive to the resources I have in my dorm*
+**NB:** *After mulling it over again over night, I realised that an alternative idea I'm interested in is a domino like project. (I looked up the correct name for the machine but couldn't find it.) - **Rube Goldberg** I think this is conducive to the resources I have in my dorm*
