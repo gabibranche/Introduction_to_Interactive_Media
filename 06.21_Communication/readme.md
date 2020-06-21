@@ -8,7 +8,7 @@ This assignment's task was to make a simple game that involves some kind of comm
 
 For this assignment I chose to make a Whack-a-Mole game that uses the switches to whack the mole in it's corresponding hole on the screen.
 
-A video of the game being played can be found [here]()
+A video of the game being played can be found [here](https://www.youtube.com/watch?v=4bKlcomM5Ws) After receiving feedback from my user I added a sound effect which can be heard in the [screen recording](https://youtu.be/SxN8H6eZni0) of the game.
 
 I knew that I wanted to do a whack-a-mole game with the switches but I wasn't exactly sure how to go about it. At first I planned to flip between drawing the hole and drawing the mole but it wasn't very efficient. I decided to look for references online and actually found a whack-a-mole [openProcessing sketch](https://www.openprocessing.org/sketch/106739).
 
@@ -29,7 +29,7 @@ After this I created the arduino code and the circuit.
 
 Once this was completed I made the two programs communicate with eachother and stored the score if the correct button was pressed.
 
-A video of this could be found [here]()
+A video of this could be found [here](https://youtu.be/6lY-xYGD9LY)
 
 ## Challenges
 
