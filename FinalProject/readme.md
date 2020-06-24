@@ -73,6 +73,8 @@ For most of the time spent on this project I couldn't get there servo to work. i
 
 The second most challenging aspect had to deal with getting by without a soldering iton, insulated wire or even a host glue gun. I was adamant on having a proper machine however and so fiddles with different ways to insulate and connect wire going from tape to cling war and finally settling on yarn. I have considerable amounts of yarn left from a frend so I wrapped each wire around with yarn to ensure proper insulation. This maid my breadboard and my machine quite messy but it was by far the best solution. 
 
+![](back1.jpg)
+![](back2.jpg)
 ![](wiring.jpg)
 A photo of the breadboard with all the wires
 
